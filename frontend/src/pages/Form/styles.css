@@ -18,8 +18,9 @@
 }
 
 .dsmovie-form-btn-container {
-    display: flex;
     justify-content: center;
+    display: flex;
+    margin-bottom: 10px;
 }
 
 .dsmovie-movie-card-image {
@@ -54,4 +55,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
+
 }
